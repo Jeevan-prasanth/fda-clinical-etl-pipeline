@@ -57,8 +57,8 @@ DE_Assignment/
 │   ├── run_scrub.py
 │   └── run_transform.py
 │
-├── sql/
-│   └── schema.sql
+├── db/
+│   └── init.sql
 │
 └── README.md
 
